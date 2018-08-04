@@ -1,11 +1,5 @@
 # UNM App Contest 2017 Version 0.7
 Our Submission for the 2017-2018 UNM App Contest
-# Team Members
-Zakery Clarke UNM CS Major<br>
--zakerytclarke@gmail.com<br>
--(505)234-9665<br>
-Nolan DiGreco<br>
--nolanplaygames1@gmail.com
 # Installation
 Simply download the LoboSafe.apk on an android device to run the app
 # Description
